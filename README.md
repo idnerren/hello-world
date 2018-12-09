@@ -1,2 +1,2 @@
 # hello-world
-Dunno
+Dunno, i just wanna know about github
